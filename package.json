@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "deploying ap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "rehan",
+    "node",
+    "js"
+  ],
+  "author": "rehan ali",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "expres": "^0.0.5",
+    "express": "^4.21.0"
+  }
+}
